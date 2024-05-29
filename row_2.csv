@@ -1,0 +1,2 @@
+id,arrival_date,name,phone,device,issues,description,status,technician,solution,checkup_price,price_charged,payment_method,due_date
+2,23/5/2021,Juma,0652767890,toshiba pc,keyboard failure,keyboard is unresponsive,pending,Mark,new keyboard ,"20,000",,mpesa,

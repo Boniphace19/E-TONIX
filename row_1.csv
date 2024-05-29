@@ -1,0 +1,2 @@
+id,arrival_date,name,phone,device,issues,description,status,technician,solution,checkup_price,price_charged,payment_method,due_date
+1,21/7/2024,Datius,0747090987,hp pc,battery problems,faulty battery,fixed,Ali,placing a new battery cell,"10,000","200,000",cash,25/7/2024
